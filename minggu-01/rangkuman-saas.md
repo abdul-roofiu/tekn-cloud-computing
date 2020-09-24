@@ -157,11 +157,6 @@ Luangkan waktu untuk mempertimbangkan bagaimana Anda akan mempertimbangkan penin
 
 Agar perangkat lunak Anda dapat dikirimkan sebagai produk SaaS, perangkat lunak tersebut harus mendukung multi-tenancy. Produk Anda harus dapat mengakomodasi banyak pengguna sekaligus, memastikan bahwa data pengguna, privasi, dan semuanya masih dipatuhi. Luangkan waktu untuk mempertimbangkan hal ini ke dalam desain arsitektur SaaS Anda dan pastikan bahwa apa pun yang Anda terapkan, memiliki model yang dapat diskalakan.
 
-
-
-
-
-
 ### Daftar Pustaka
 
 https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas
@@ -171,3 +166,15 @@ https://hackernoon.com/saas-software-as-a-service-platform-architecture-757a4322
 https://www.devteam.space/blog/saas-software-as-a-service-platform-architecture/
 
 https://usersnap.com/blog/cloud-based-saas-architecture-fundamentals/
+
+
+
+
+### 2. Software untuk membuat diagram di Cloud diantaranya ada https://draw.io, sementara itu versi non-cloud yang mempunyai fungsionalitas sama diantaranya adalah Microsoft Visio, Calligra Flow, serta Dia. Carilah 2 layanan SaaS, cari juga software desktop / non cloud yang mempunyai fungsionalitas sama dengan layanan SaaS tersebut.
+
+1. https://tool.animaker.com/   dan Software yang sama tp non Cloud adalah Videoscribe
+
+2. http://learnerscode.unaux.com/  dan Software yang sama tp non Cloud adalah adobe Dreamviewer
+
+
+
