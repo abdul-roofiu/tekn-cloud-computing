@@ -1,5 +1,5 @@
 # Software as a service (SaaS)
-![Picture1](https://github.com/abdul-roofiu/tekn-cloud-computing/blob/master/Picture1.png)
+![Picture1](https://github.com/abdul-roofiu/Gambar/blob/master/minggu-01/Picture1.png)
 
 Software as a Service adalah lisensi perangkat lunak dan model pengiriman di mana perangkat lunak dilisensikan atas dasar langganan dan dihosting secara terpusat. Pengguna dapat mengaksesnya dengan bantuan browser web.
 
@@ -17,7 +17,7 @@ Dengan model ini, satu versi aplikasi, dengan konfigurasi tunggal digunakan untu
 
 Ada dua jenis utama SaaS:
 
-![Picture2](https://github.com/abdul-roofiu/tekn-cloud-computing/blob/master/Picture2.png)
+![Picture2](https://github.com/abdul-roofiu/Gambar/blob/master/minggu-01/Picture2.png)
 
 - SaaS Vertikal
 - Perangkat lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat lunak untuk perawatan kesehatan, pertanian, real estat, industri keuangan)
@@ -26,7 +26,7 @@ Ada dua jenis utama SaaS:
 
 ## Mengapa Menggunakan Arsitektur SaaS?
 
-![Picture3](https://github.com/abdul-roofiu/tekn-cloud-computing/blob/master/Picture3.png)
+![Picture3](https://github.com/abdul-roofiu/Gambar/blob/master/minggu-01/Picture3.png)
 
 Seperti yang disebutkan dalam pendahuluan, perangkat lunak telah didistribusikan ke pelanggan di berbagai saluran selama beberapa dekade terakhir. Saluran distribusi yang lebih baru dalam Perangkat Lunak sebagai Layanan (atau SaaS).
 
@@ -119,7 +119,7 @@ Saat memilih produk SaaS, dan misalnya, dengan munculnya GDPR, bisnis harus memb
 
 ## Komponen Utama dari Platform SaaS
 
-![Picture4](https://github.com/abdul-roofiu/tekn-cloud-computing/blob/master/Picture4.png)
+![Picture4](https://github.com/abdul-roofiu/Gambar/blob/master/minggu-01/Picture4.png)
 
 Bagian penting dalam mengembangkan produk SaaS terbaru Anda adalah menentukan dengan komponen atau fitur utama yang diharapkan pengguna sebagai standar. Dapat dipahami bahwa fitur akan didorong oleh permintaan pasar dan komunitas pengguna, tetapi ada beberapa komponen utama yang diharapkan pengguna.
 
@@ -137,7 +137,7 @@ Meskipun Anda mungkin dapat memberikan solusi SaaS siap pakai untuk sebagian bes
 
 ## Pertimbangan Desain untuk Platform SaaS
 
-![Picture5](https://github.com/abdul-roofiu/tekn-cloud-computing/blob/master/Picture5.png)
+![Picture5](https://github.com/abdul-roofiu/Gambar/blob/master/minggu-01/Picture5.png)
 
 #### Skalabilitas
 
