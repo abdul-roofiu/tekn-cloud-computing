@@ -11,4 +11,5 @@ Ini seperti meminjam buku referensi dari perpustakaan. Anda pergi, membaca buku 
 Contoh umum: Google Apps, Microsoft office365, Google docs, Gmail, perangkat lunak penagihan WHMCS
 
 Arsitektur SAAS:
+
 Dengan model ini, satu versi aplikasi, dengan konfigurasi tunggal digunakan untuk semua pelanggan. Aplikasi diinstal pada beberapa mesin untuk mendukung skalabilitas (disebut penskalaan horizontal). Dalam beberapa kasus, versi kedua dari aplikasi disiapkan untuk menawarkan sekelompok pelanggan tertentu akses ke versi pra-rilis aplikasi untuk tujuan pengujian. Dalam model tradisional ini, setiap versi aplikasi didasarkan pada kode unik. Meskipun pengecualian, beberapa solusi SaaS tidak menggunakan multitenancy, untuk mengelola sejumlah besar pelanggan secara hemat biaya. Apakah multitenancy merupakan komponen penting untuk software-as-a-service adalah topik kontroversi.
